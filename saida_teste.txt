@@ -1,0 +1,79 @@
+========== 3.3 - FUNCIONÁRIOS ==========
+Nome: Maria | Nascimento: 18/10/2000 | Salário: R$ 2.009,44 | Função: Operador
+Nome: Caio | Nascimento: 02/05/1961 | Salário: R$ 9.836,14 | Função: Coordenador
+Nome: Miguel | Nascimento: 14/10/1988 | Salário: R$ 19.119,88 | Função: Diretor
+Nome: Alice | Nascimento: 01/05/1995 | Salário: R$ 2.234,68 | Função: Recepcionista
+Nome: Heitor | Nascimento: 19/11/1999 | Salário: R$ 1.582,72 | Função: Operador
+Nome: Arthur | Nascimento: 31/03/1993 | Salário: R$ 4.071,84 | Função: Contador
+Nome: Laura | Nascimento: 07/08/1994 | Salário: R$ 3.017,45 | Função: Gerente
+Nome: Heloísa | Nascimento: 24/05/2003 | Salário: R$ 1.606,85 | Função: Eletricista
+Nome: Helena | Nascimento: 02/09/1996 | Salário: R$ 2.799,93 | Função: Gerente
+
+========== 3.4 - SALÁRIOS APÓS AUMENTO DE 10% ==========
+Nome: Maria | Nascimento: 18/10/2000 | Salário: R$ 2.210,38 | Função: Operador
+Nome: Caio | Nascimento: 02/05/1961 | Salário: R$ 10.819,75 | Função: Coordenador
+Nome: Miguel | Nascimento: 14/10/1988 | Salário: R$ 21.031,87 | Função: Diretor
+Nome: Alice | Nascimento: 01/05/1995 | Salário: R$ 2.458,15 | Função: Recepcionista
+Nome: Heitor | Nascimento: 19/11/1999 | Salário: R$ 1.740,99 | Função: Operador
+Nome: Arthur | Nascimento: 31/03/1993 | Salário: R$ 4.479,02 | Função: Contador
+Nome: Laura | Nascimento: 07/08/1994 | Salário: R$ 3.319,20 | Função: Gerente
+Nome: Heloísa | Nascimento: 24/05/2003 | Salário: R$ 1.767,54 | Função: Eletricista
+Nome: Helena | Nascimento: 02/09/1996 | Salário: R$ 3.079,92 | Função: Gerente
+
+========== 3.6 - AGRUPADOS POR FUNÇÃO ==========
+
+Função: Operador
+Nome: Maria | Nascimento: 18/10/2000 | Salário: R$ 2.210,38 | Função: Operador
+Nome: Heitor | Nascimento: 19/11/1999 | Salário: R$ 1.740,99 | Função: Operador
+
+Função: Coordenador
+Nome: Caio | Nascimento: 02/05/1961 | Salário: R$ 10.819,75 | Função: Coordenador
+
+Função: Diretor
+Nome: Miguel | Nascimento: 14/10/1988 | Salário: R$ 21.031,87 | Função: Diretor
+
+Função: Recepcionista
+Nome: Alice | Nascimento: 01/05/1995 | Salário: R$ 2.458,15 | Função: Recepcionista
+
+Função: Contador
+Nome: Arthur | Nascimento: 31/03/1993 | Salário: R$ 4.479,02 | Função: Contador
+
+Função: Gerente
+Nome: Laura | Nascimento: 07/08/1994 | Salário: R$ 3.319,20 | Função: Gerente
+Nome: Helena | Nascimento: 02/09/1996 | Salário: R$ 3.079,92 | Função: Gerente
+
+Função: Eletricista
+Nome: Heloísa | Nascimento: 24/05/2003 | Salário: R$ 1.767,54 | Função: Eletricista
+
+========== 3.8 - ANIVERSARIANTES DE OUTUBRO E DEZEMBRO ==========
+Nome: Maria | Nascimento: 18/10/2000 | Salário: R$ 2.210,38 | Função: Operador
+Nome: Miguel | Nascimento: 14/10/1988 | Salário: R$ 21.031,87 | Função: Diretor
+
+========== 3.9 - FUNCIONÁRIO COM MAIOR IDADE ==========
+Nome: Caio
+Idade: 65 anos
+
+========== 3.10 - ORDEM ALFABÉTICA ==========
+Nome: Alice | Nascimento: 01/05/1995 | Salário: R$ 2.458,15 | Função: Recepcionista
+Nome: Arthur | Nascimento: 31/03/1993 | Salário: R$ 4.479,02 | Função: Contador
+Nome: Caio | Nascimento: 02/05/1961 | Salário: R$ 10.819,75 | Função: Coordenador
+Nome: Heitor | Nascimento: 19/11/1999 | Salário: R$ 1.740,99 | Função: Operador
+Nome: Helena | Nascimento: 02/09/1996 | Salário: R$ 3.079,92 | Função: Gerente
+Nome: Heloísa | Nascimento: 24/05/2003 | Salário: R$ 1.767,54 | Função: Eletricista
+Nome: Laura | Nascimento: 07/08/1994 | Salário: R$ 3.319,20 | Função: Gerente
+Nome: Maria | Nascimento: 18/10/2000 | Salário: R$ 2.210,38 | Função: Operador
+Nome: Miguel | Nascimento: 14/10/1988 | Salário: R$ 21.031,87 | Função: Diretor
+
+========== 3.11 - TOTAL DOS SALÁRIOS ==========
+Total: R$ 50.906,82
+
+========== 3.12 - SALÁRIOS MÍNIMOS ==========
+Alice recebe 2.03 salários mínimos.
+Arthur recebe 3.70 salários mínimos.
+Caio recebe 8.93 salários mínimos.
+Heitor recebe 1.44 salários mínimos.
+Helena recebe 2.54 salários mínimos.
+Heloísa recebe 1.46 salários mínimos.
+Laura recebe 2.74 salários mínimos.
+Maria recebe 1.82 salários mínimos.
+Miguel recebe 17.35 salários mínimos.
